@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(238, 237, 237);
+}
+table{
+    width: 100%;
+    padding: 10px;
+    border-radius: 15px;
+    border:rgb(118, 0, 0) solid 3px;
+}
+p {
+    font-size: 18px;
+    text-align: justify
+}
+li {
+    margin-bottom: 10px;
+}
+td {
+    border:rgb(118, 0, 0) solid 3px;
+    padding: 10px;
+}
+th {
+    border:rgb(118, 0, 0) solid 3px;
+    padding: 10px;
+}
+a:hover{
+    color:rgb(118, 0, 0);
+}
+.flag-size{
+    height: 50px;
+    border-radius: 5px;
+}
+.tr-table-1{
+    text-align: center;
+}
+.h1-name{
+    text-align: center;
+    color: rgb(118, 0, 0);
+}
+.hobbie-img{
+    height: 300px;
+        }
